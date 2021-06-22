@@ -1,3 +1,5 @@
+Epitech first year final project.
+
 # 42sh
 
 - **Usage:** make && ./42sh
