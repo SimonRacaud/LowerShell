@@ -1,5 +1,3 @@
-Linux Shell
-
 # LowerShell
 
 - **Usage:** make && ./42sh
