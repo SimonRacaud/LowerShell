@@ -1,6 +1,10 @@
 # LowerShell
 
-- **Usage:** make && ./42sh
+## Building
+> make
+
+## Usage: 
+> ./42sh
 
 # Subject
 A linux shell written from scratch in C.
