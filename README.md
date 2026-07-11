@@ -1,15 +1,15 @@
 Linux Shell
 
-# 42sh
+# LowerShell
 
 - **Usage:** make && ./42sh
 
 # Subject
-The reference shell used is TCSH.
+A linux shell written from scratch in C.
 
 # Features
 - Spaces and tabs.
-- $PATH and environment.
+- $PATH and environment variables.
 - Errors and returns values.
 - Redirections ('<', '>', '<<' and '>>').
 - Pipes ('|').
@@ -28,7 +28,7 @@ The reference shell used is TCSH.
 
 ![Header](github/42sh_LowerShell_AD.png)
 
-# Exemple
+# Examples:
 
 ![main exemple](github/42sh.png)
 
@@ -39,5 +39,3 @@ The reference shell used is TCSH.
 - [@AurelienJoncour](https://github.com/aurelienjoncour)
 - [@sullmin](https://github.com/sullmin)
 - [@vincent-andrieu](https://github.com/vincent-andrieu)
-- Thomas Jouanolle
-
